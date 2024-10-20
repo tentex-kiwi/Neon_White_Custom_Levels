@@ -1,0 +1,178 @@
+The updated coordinates to enter into the editor for Take Flight:
+ file: level1 X: -60.5533617597974, Y: 196.23000000000005, Z: -117.34061053014473
+The updated coordinates to enter into the editor for Trigger:
+ file: level100 X: 226.21, Y: 124.66, Z: 229.54
+The updated coordinates to enter into the editor for Greenhouse:
+ file: level101 X: -149.98012843832643, Y: 67.41, Z: -188.90841512456
+The updated coordinates to enter into the editor for Sweep:
+ file: level102 X: -169.84, Y: 96.71, Z: 305.0
+The updated coordinates to enter into the editor for Zipline:
+ file: level103 X: 29.67, Y: 365.99, Z: 90.76
+The updated coordinates to enter into the editor for Swing:
+ file: level104 X: 175.18, Y: 286.47, Z: -326.58
+The updated coordinates to enter into the editor for Chute:
+ file: level105 X: 145.29, Y: 565.51, Z: 15.31
+The updated coordinates to enter into the editor for Crash:
+ file: level106 X: 312.68, Y: 707.7, Z: -319.14
+The updated coordinates to enter into the editor for Straightaway:
+ file: level107 X: 788.59, Y: 263.96, Z: 213.24
+The updated coordinates to enter into the editor for Firecracker:
+ file: level108 X: 98.79, Y: 1025.37, Z: 90.65
+The updated coordinates to enter into the editor for Streak:
+ file: level109 X: 416.79, Y: 618.03, Z: 639.15
+The updated coordinates to enter into the editor for Bolt:
+ file: level110 X: 337.67, Y: 728.66, Z: 5.44
+The updated coordinates to enter into the editor for Godstreak:
+ file: level111 X: 504.88, Y: 320.39, Z: -284.77
+The updated coordinates to enter into the editor for Plunge:
+ file: level112 X: 136.42, Y: 324.89, Z: 41.08
+The updated coordinates to enter into the editor for Mayhem:
+ file: level113 X: -391.97, Y: 475.09, Z: -578.48
+The updated coordinates to enter into the editor for Estate:
+ file: level114 X: 289.4, Y: 274.77, Z: -792.76
+The updated coordinates to enter into the editor for Trapwire:
+ file: level115 X: -191.2, Y: 29.53, Z: -130.88
+The updated coordinates to enter into the editor for Ricochet:
+ file: level116 X: -12.83, Y: 312.15, Z: -95.18
+The updated coordinates to enter into the editor for Breakthrough:
+ file: level117 X: 157.98, Y: 330.43, Z: 150.46
+The updated coordinates to enter into the editor for Glide:
+ file: level118 X: 475.2, Y: 216.7, Z: -553.12
+The updated coordinates to enter into the editor for Closer:
+ file: level119 X: 158.48, Y: 391.18, Z: 360.56
+The updated coordinates to enter into the editor for Hike:
+ file: level120 X: 33.6, Y: 34.53, Z: -185.69
+The updated coordinates to enter into the editor for Access:
+ file: level121 X: 146.7, Y: 626.78, Z: 682.47
+The updated coordinates to enter into the editor for Congregation:
+ file: level122 X: 496.25, Y: 194.58, Z: 2.54
+The updated coordinates to enter into the editor for Sequence:
+ file: level123 X: 589.55, Y: 131.77, Z: -69.16
+The updated coordinates to enter into the editor for Cascade:
+ file: level18 X: -6.0, Y: 99.499, Z: -80.0
+The updated coordinates to enter into the editor for Purify:
+ file: level19 X: 38.32320411877931, Y: 27.440000000000005, Z: -177.09457244949772
+The updated coordinates to enter into the editor for Glass Port:
+ file: level20 X: -35.54, Y: 236.57, Z: 206.26000000000002
+The updated coordinates to enter into the editor for Fastlane:
+ file: level21 X: -9.662847696813584, Y: 94.28, Z: 311.1999964964464
+The updated coordinates to enter into the editor for Dancer:
+ file: level22 X: -313.66818046535315, Y: 77.27, Z: 92.17444576212338
+The updated coordinates to enter into the editor for Guardian:
+ file: level23 X: 197.41, Y: 288.22, Z: 217.63
+The updated coordinates to enter into the editor for Driller:
+ file: level25 X: 4.499591467919015, Y: -44.69000000000001, Z: -98.5779730042256
+The updated coordinates to enter into the editor for Superkinetic:
+ file: level26 X: -3.27, Y: 293.36, Z: 245.49
+The updated coordinates to enter into the editor for Arrival:
+ file: level27 X: -51.39, Y: 42.510000000000005, Z: 24.89
+The updated coordinates to enter into the editor for Forgotten City:
+ file: level29 X: 313.95, Y: 101.78999999999999, Z: 201.06
+The updated coordinates to enter into the editor for Pummel:
+ file: level3 X: 5.0, Y: 85.0, Z: 65.0
+The updated coordinates to enter into the editor for Fireball:
+ file: level30 X: 196.62, Y: 193.65, Z: -133.66
+The updated coordinates to enter into the editor for Streets:
+ file: level32 X: -36.03, Y: 18.17, Z: -44.52
+The updated coordinates to enter into the editor for Apartment:
+ file: level33 X: -409.78826850510745, Y: -0.7720000000000002, Z: 258.62315905692986
+The updated coordinates to enter into the editor for Hanging Gardens:
+ file: level34 X: 189.14444268807566, Y: 106.70999999999997, Z: -296.62978585903966
+The updated coordinates to enter into the editor for Shocker:
+ file: level36 X: 84.89, Y: 170.04, Z: 272.36
+The updated coordinates to enter into the editor for Race:
+ file: level37 X: 231.56, Y: 61.94, Z: -382.13
+The updated coordinates to enter into the editor for Bubble:
+ file: level38 X: -3.66, Y: 162.11, Z: 83.22
+The updated coordinates to enter into the editor for Mimic:
+ file: level40 X: 33.41, Y: 1.5899999999999963, Z: 316.61
+The updated coordinates to enter into the editor for Heaven's Edge:
+ file: level42 X: 127.77, Y: 662.46, Z: 44.17
+The updated coordinates to enter into the editor for Mirror:
+ file: level45 X: 403.01, Y: 71.18999999999998, Z: 1108.46
+The updated coordinates to enter into the editor for Escalation:
+ file: level46 X: -285.32, Y: 362.49, Z: -44.49
+The updated coordinates to enter into the editor for Barrage:
+ file: level48 X: -114.97, Y: 296.27, Z: -383.69
+The updated coordinates to enter into the editor for Fortress:
+ file: level49 X: -164.47, Y: 127.33, Z: 134.81
+The updated coordinates to enter into the editor for Spree:
+ file: level50 X: -419.7, Y: 261.91, Z: 96.58
+The updated coordinates to enter into the editor for Switch:
+ file: level53 X: -237.42, Y: 511.45, Z: 345.78
+The updated coordinates to enter into the editor for Gunner:
+ file: level63 X: 52.368, Y: 3.9849999999999994, Z: -239.35
+The updated coordinates to enter into the editor for Elevate:
+ file: level64 X: 114.12, Y: 89.02, Z: -357.32
+The updated coordinates to enter into the editor for Bounce:
+ file: level65 X: -137.05742907941578, Y: 177.15, Z: -142.23552636082488
+The updated coordinates to enter into the editor for Climb:
+ file: level66 X: 109.00970414578948, Y: 198.6200000000001, Z: 38.56022435162244
+The updated coordinates to enter into the editor for Fasttrack:
+ file: level67 X: 230.29561085098825, Y: 161.16, Z: -18.849966121193916
+The updated coordinates to enter into the editor for Godspeed:
+ file: level68 X: 113.21866382665914, Y: 8.060000000000002, Z: -307.96775947378956
+The updated coordinates to enter into the editor for Dasher:
+ file: level69 X: -49.43, Y: 142.06, Z: -50.87
+The updated coordinates to enter into the editor for Movement:
+ file: level7 X: -102.6651547451175, Y: 32.7, Z: -372.4103674512312
+The updated coordinates to enter into the editor for Thrasher:
+ file: level70 X: 230.05, Y: 103.41, Z: -479.75
+The updated coordinates to enter into the editor for Outstretched:
+ file: level71 X: 254.6930762640704, Y: 56.09000000000001, Z: 53.92663980950804
+The updated coordinates to enter into the editor for Smackdown:
+ file: level72 X: -211.7141418184061, Y: 95.23, Z: -69.89631308657022
+The updated coordinates to enter into the editor for Catwalk:
+ file: level73 X: 50.0, Y: 24.035, Z: -99.88
+The updated coordinates to enter into the editor for Distinguish:
+ file: level74 X: -105.41, Y: 301.94, Z: 184.8
+The updated coordinates to enter into the editor for Stomp:
+ file: level75 X: -55.11, Y: 57.84, Z: 244.97
+The updated coordinates to enter into the editor for Jumper:
+ file: level76 X: -453.73885051145646, Y: 207.40400000000005, Z: 105.70464168399701
+The updated coordinates to enter into the editor for Dash Tower:
+ file: level77 X: -66.43, Y: 41.15, Z: -72.06
+The updated coordinates to enter into the editor for Descent:
+ file: level78 X: -4.006333818274685, Y: -139.85400000000004, Z: -24.64360124528371
+The updated coordinates to enter into the editor for Canals:
+ file: level79 X: -102.75, Y: 194.83, Z: -108.17
+The updated coordinates to enter into the editor for Sprint:
+ file: level80 X: -0.6479830515181827, Y: 40.76400000000001, Z: 29.527906240791005
+The updated coordinates to enter into the editor for Mountain:
+ file: level81 X: 16.028000000000006, Y: -173.10000000000002, Z: 7.372500000000004
+The updated coordinates to enter into the editor for Ringer:
+ file: level82 X: -28.7, Y: 61.7, Z: -63.15
+The updated coordinates to enter into the editor for Cleaner:
+ file: level83 X: 15.64, Y: -18.499999999999996, Z: 72.68
+The updated coordinates to enter into the editor for Warehouse:
+ file: level84 X: -57.67, Y: 70.36999999999999, Z: 108.06
+The updated coordinates to enter into the editor for Boom:
+ file: level85 X: 64.27, Y: 92.31, Z: 34.45
+The updated coordinates to enter into the editor for Steps:
+ file: level86 X: -300.09, Y: 56.78999999999999, Z: 0.69
+The updated coordinates to enter into the editor for Demolition:
+ file: level87 X: 16.45, Y: 95.27000000000001, Z: 67.65
+The updated coordinates to enter into the editor for Arcs:
+ file: level88 X: -151.61710425581563, Y: 97.71, Z: 21.318737722509095
+The updated coordinates to enter into the editor for Tangled:
+ file: level89 X: -382.6, Y: 96.11999999999999, Z: 400.96
+The updated coordinates to enter into the editor for Waterworks:
+ file: level90 X: 83.116, Y: 90.91, Z: -145.354
+The updated coordinates to enter into the editor for Killswitch:
+ file: level91 X: -173.6, Y: 125.16, Z: -210.62
+The updated coordinates to enter into the editor for Falling:
+ file: level92 X: 479.82, Y: 122.92, Z: 320.43
+The updated coordinates to enter into the editor for Bouquet:
+ file: level93 X: -331.24, Y: 67.15, Z: -19.45
+The updated coordinates to enter into the editor for Prepare:
+ file: level94 X: 203.37665569020712, Y: 36.360000000000014, Z: -12.01486222421852
+The updated coordinates to enter into the editor for Triptrack:
+ file: level95 X: 269.22704407262694, Y: 154.94400000000005, Z: 383.49508437516624
+The updated coordinates to enter into the editor for Shield:
+ file: level96 X: 166.85, Y: 147.52, Z: -140.47
+The updated coordinates to enter into the editor for Overlook:
+ file: level97 X: 43.57, Y: 192.14999999999998, Z: -253.67
+The updated coordinates to enter into the editor for Pop:
+ file: level98 X: -19.72, Y: 144.11, Z: 557.68
+The updated coordinates to enter into the editor for Minefield:
+ file: level99 X: -18.62, Y: 94.28, Z: -137.04
