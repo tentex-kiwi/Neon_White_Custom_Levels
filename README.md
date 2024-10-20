@@ -75,6 +75,7 @@ This section will go over how to get the modded levels in your own game.
 - Closer
 - Switch
 - Access
+- Dasher (removed all enemies)
 
 ## F.A.Q.
 
