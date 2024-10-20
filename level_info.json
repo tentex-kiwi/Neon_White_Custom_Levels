@@ -1,0 +1,1630 @@
+{
+  "GRID_SKIPSLIDE": {
+    "levelID": "GRID_SKIPSLIDE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 120,
+    "levelName": "level118"
+  },
+  "GRID_FORTRESS": {
+    "levelID": "GRID_FORTRESS",
+    "levelDisplayName": "FORTRESS",
+    "difficultyRating": 1,
+    "levelIntegerID": 67,
+    "levelName": "level49"
+  },
+  "GRID_TRIGGERHAPPY": {
+    "levelID": "GRID_DESTRUCTION",
+    "levelDisplayName": "DESTRUCTION",
+    "difficultyRating": 1,
+    "levelIntegerID": 138
+  },
+  "TUT_TRIPWIRE": {
+    "levelID": "TUT_TRIPWIRE",
+    "levelDisplayName": "Hanging Gardens",
+    "difficultyRating": 1,
+    "levelIntegerID": 247,
+    "levelName": "level34"
+  },
+  "GRID_SNAKE_IN_MY_BOOT": {
+    "levelID": "GRID_SNAKE_IN_MY_BOOT",
+    "levelDisplayName": "Streets",
+    "difficultyRating": 1,
+    "levelIntegerID": 123,
+    "levelName": "level32"
+  },
+  "GRID_ARRIVAL": {
+    "levelID": "GRID_ARRIVAL",
+    "levelDisplayName": "Arrival",
+    "difficultyRating": 1,
+    "levelIntegerID": 16,
+    "levelName": "level27"
+  },
+  "SIDEQUEST_OBSTACLE_SHOTGUN_2": {
+    "levelID": "SIDEQUEST_OBSTACLE_SHOTGUN_2",
+    "levelDisplayName": "Expel Obstacle Course 1",
+    "difficultyRating": 3,
+    "levelIntegerID": 206
+  },
+  "TUT_UZI": {
+    "levelID": "TUT_UZI",
+    "levelDisplayName": "Stomp",
+    "difficultyRating": 1,
+    "levelIntegerID": 248,
+    "levelName": "level75"
+  },
+  "GRID_GODTEMPLE_ENTRY": {
+    "levelID": "GRID_GODTEMPLE_ENTRY",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 72,
+    "levelName": "level14"
+  },
+  "SIDEQUEST_GREEN_MEMORY_3": {
+    "levelID": "SIDEQUEST_GREEN_MEMORY_3",
+    "levelDisplayName": "???",
+    "difficultyRating": 1,
+    "levelIntegerID": 195,
+    "levelName": "level154"
+  },
+  "GRID_TRAPS2": {
+    "levelID": "GRID_TRAPS2",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 135,
+    "levelName": "level41"
+  },
+  "SIDEQUEST_GREEN_MEMORY": {
+    "levelID": "SIDEQUEST_GREEN_MEMORY",
+    "levelDisplayName": "???",
+    "difficultyRating": 1,
+    "levelIntegerID": 197,
+    "levelName": "level152"
+  },
+  "GRID_BOSS_GODSDEATHTEMPLE": {
+    "levelID": "GRID_BOSS_GODSDEATHTEMPLE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 26,
+    "levelName": "level16"
+  },
+  "GRID_BALLOONLAIR": {
+    "levelID": "GRID_BALLOONLAIR",
+    "levelDisplayName": "Balloon Climber",
+    "difficultyRating": 2,
+    "levelIntegerID": 18,
+    "levelName": "level135"
+  },
+  "SIDEQUEST_ARENASIXNINE": {
+    "levelID": "SIDEQUEST_ARENASIXNINE",
+    "levelDisplayName": "",
+    "difficultyRating": 4,
+    "levelIntegerID": 186,
+    "levelName": "level139"
+  },
+  "SIDEQUEST_ATTITUDE_ADJUSTMENT": {
+    "levelID": "SIDEQUEST_ATTITUDE_ADJUSTMENT",
+    "levelDisplayName": "",
+    "difficultyRating": 4,
+    "levelIntegerID": 187,
+    "levelName": "level140"
+  },
+  "SIDEQUEST_BARREL_CLIMB": {
+    "levelID": "SIDEQUEST_BARREL_CLIMB",
+    "levelDisplayName": "Barrel Climb",
+    "difficultyRating": 3,
+    "levelIntegerID": 188,
+    "levelName": "level136"
+  },
+  "SIDEQUEST_FISHERMAN_SUPLEX": {
+    "levelID": "SIDEQUEST_FISHERMAN_SUPLEX",
+    "levelDisplayName": "",
+    "difficultyRating": 4,
+    "levelIntegerID": 193,
+    "levelName": "level137"
+  },
+  "SIDEQUEST_ROCKETGODZ": {
+    "levelID": "SIDEQUEST_ROCKETGODZ",
+    "levelDisplayName": "",
+    "difficultyRating": 4,
+    "levelIntegerID": 216,
+    "levelName": "level141"
+  },
+  "SIDEQUEST_SUNSET_FLIP_POWERBOMB": {
+    "levelID": "SIDEQUEST_SUNSET_FLIP_POWERBOMB",
+    "levelDisplayName": "",
+    "difficultyRating": 4,
+    "levelIntegerID": 219,
+    "levelName": "level134"
+  },
+  "TUT_MOVEMENT": {
+    "levelID": "TUT_MOVEMENT",
+    "levelDisplayName": "Movement",
+    "difficultyRating": 1,
+    "levelIntegerID": 236,
+    "levelName": "level7"
+  },
+  "GRID_GLASSPATH2": {
+    "levelID": "GRID_GLASSPATH2",
+    "levelDisplayName": "Glass Path 2",
+    "difficultyRating": 4,
+    "levelIntegerID": 69,
+    "levelName": "level145"
+  },
+  "GRID_GLASSPATH3": {
+    "levelID": "GRID_GLASSPATH3",
+    "levelDisplayName": "Glass Path 3",
+    "difficultyRating": 4,
+    "levelIntegerID": 70,
+    "levelName": "level147"
+  },
+  "GRID_GLASSPATH": {
+    "levelID": "GRID_GLASSPATH",
+    "levelDisplayName": "Glass Path 1",
+    "difficultyRating": 3,
+    "levelIntegerID": 71,
+    "levelName": "level144"
+  },
+  "GRID_HELLVATOR": {
+    "levelID": "GRID_HELLVATOR",
+    "levelDisplayName": "Hellvator",
+    "difficultyRating": 3,
+    "levelIntegerID": 76,
+    "levelName": "level146"
+  },
+  "SIDEQUEST_ALL_SEEING_EYE": {
+    "levelID": "SIDEQUEST_ALL_SEEING_EYE",
+    "levelDisplayName": "All Seeing Eye",
+    "difficultyRating": 5,
+    "levelIntegerID": 185,
+    "levelName": "level148"
+  },
+  "SIDEQUEST_DODGER": {
+    "levelID": "SIDEQUEST_DODGER",
+    "levelDisplayName": "Dodger",
+    "difficultyRating": 2,
+    "levelIntegerID": 189,
+    "levelName": "level143"
+  },
+  "SIDEQUEST_RESIDENTSAWB": {
+    "levelID": "SIDEQUEST_RESIDENTSAWB",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 215,
+    "levelName": "level149"
+  },
+  "SIDEQUEST_RESIDENTSAW": {
+    "levelID": "SIDEQUEST_RESIDENTSAW",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 214,
+    "levelName": "level150"
+  },
+  "TUT_RIFLE": {
+    "levelID": "TUT_RIFLE",
+    "levelDisplayName": "Godspeed",
+    "difficultyRating": 1,
+    "levelIntegerID": 241,
+    "levelName": "level68"
+  },
+  "TUT_SHOOTINGRANGE": {
+    "levelID": "TUT_SHOOTINGRANGE",
+    "levelDisplayName": "Pummel",
+    "difficultyRating": 1,
+    "levelIntegerID": 246,
+    "levelName": "level3"
+  },
+  "GRID_BOSS_RAPTURE": {
+    "levelID": "GRID_BOSS_RAPTURE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 27,
+    "levelName": "level11"
+  },
+  "HUB_HEAVEN": {
+    "levelID": "HUB_HEAVEN",
+    "levelDisplayName": "Heaven Plaza",
+    "difficultyRating": 1,
+    "levelIntegerID": 168,
+    "levelName": "level5"
+  },
+  "BASICWAVE": {
+    "levelID": "BASICWAVE",
+    "levelDisplayName": "Waves",
+    "difficultyRating": 1,
+    "levelIntegerID": 2
+  },
+  "CONVERSATIONS": {
+    "levelID": "CONVERSATIONS",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 3
+  },
+  "EXPLORATION_EXAMPLE": {
+    "levelID": "EXPLORATION_EXAMPLE",
+    "levelDisplayName": "Exploration",
+    "difficultyRating": 2,
+    "levelIntegerID": 4
+  },
+  "EXTRACTION_DIFFICULT": {
+    "levelID": "EXTRACTION_DIFFICULT",
+    "levelDisplayName": "Extract Difficult",
+    "difficultyRating": 5,
+    "levelIntegerID": 5
+  },
+  "EXTRACTION_TUTORIAL": {
+    "levelID": "EXTRACTION_TUTORIAL",
+    "levelDisplayName": "Extraction Tutorial",
+    "difficultyRating": 3,
+    "levelIntegerID": 6
+  },
+  "EXTRACTION_YIGA": {
+    "levelID": "EXTRACTION_YIGA",
+    "levelDisplayName": "Yiiga",
+    "difficultyRating": 3,
+    "levelIntegerID": 7
+  },
+  "FASTLANE": {
+    "levelID": "FASTLANE",
+    "levelDisplayName": "Highway",
+    "difficultyRating": 2,
+    "levelIntegerID": 8
+  },
+  "FIRSTTRY": {
+    "levelID": "FIRSTTRY",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 9
+  },
+  "FLOATING": {
+    "levelID": "FLOATING",
+    "levelDisplayName": "Floating City",
+    "difficultyRating": 1,
+    "levelIntegerID": 10,
+    "levelName": "level29"
+  },
+  "GRID_1GUN": {
+    "levelID": "GRID_1GUN",
+    "levelDisplayName": "CLEANSE",
+    "difficultyRating": 1,
+    "levelIntegerID": 11,
+    "levelName": "level114"
+  },
+  "GRID_ANTFARM": {
+    "levelID": "GRID_ANTFARM",
+    "levelDisplayName": "Pinball",
+    "difficultyRating": 1,
+    "levelIntegerID": 12,
+    "levelName": "level116"
+  },
+  "GRID_APARTMENT": {
+    "levelID": "GRID_APARTMENT",
+    "levelDisplayName": "Apartment",
+    "difficultyRating": 1,
+    "levelIntegerID": 13,
+    "levelName": "level33"
+  },
+  "GRID_ARCS": {
+    "levelID": "GRID_ARCS",
+    "levelDisplayName": "Arcs",
+    "difficultyRating": 1,
+    "levelIntegerID": 14,
+    "levelName": "level88"
+  },
+  "GRID_ARENA": {
+    "levelID": "ARENA",
+    "levelDisplayName": "Plaza",
+    "difficultyRating": 1,
+    "levelIntegerID": 15
+  },
+  "GRID_BARRAGE": {
+    "levelID": "GRID_BARRAGE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 19,
+    "levelName": "level48"
+  },
+  "GRID_BLASTOFF": {
+    "levelID": "GRID_BLASTOFF",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 20
+  },
+  "GRID_BOLT": {
+    "levelID": "GRID_BOLT",
+    "levelDisplayName": "SMOTHER",
+    "difficultyRating": 1,
+    "levelIntegerID": 21,
+    "levelName": "level110"
+  },
+  "GRID_BOMBPOP": {
+    "levelID": "GRID_BOMBPOP",
+    "levelDisplayName": "Purity Pop",
+    "difficultyRating": 4,
+    "levelIntegerID": 22
+  },
+  "GRID_BOMBS_AHOY": {
+    "levelID": "GRID_BOMBS_AHOY",
+    "levelDisplayName": "Demolition",
+    "difficultyRating": 1,
+    "levelIntegerID": 23,
+    "levelName": "level87"
+  },
+  "GRID_BOOM": {
+    "levelID": "GRID_BOOM",
+    "levelDisplayName": "Boom",
+    "difficultyRating": 1,
+    "levelIntegerID": 24,
+    "levelName": "level85"
+  },
+  "GRID_BOOP": {
+    "levelID": "GRID_BOOP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 25,
+    "levelName": "level122"
+  },
+  "GRID_BOSS_SANDBOX": {
+    "levelID": "GRID_BOSS_SANDBOX",
+    "levelDisplayName": "Fight Neon Green",
+    "difficultyRating": 1,
+    "levelIntegerID": 28
+  },
+  "GRID_BOSS_TEMPLE2": {
+    "levelID": "GRID_BOSS_TEMPLE2",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 29
+  },
+  "GRID_BOSS_TEMPLE": {
+    "levelID": "GRID_BOSS_TEMPLE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 30
+  },
+  "GRID_BOSS_TOWER": {
+    "levelID": "GRID_BOSS_TOWER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 31
+  },
+  "GRID_BOSS_YELLOW": {
+    "levelID": "GRID_BOSS_YELLOW",
+    "levelDisplayName": "The Clocktower",
+    "difficultyRating": 1,
+    "levelIntegerID": 32,
+    "levelName": "level54"
+  },
+  "GRID_BOXER_TUTORIAL": {
+    "levelID": "GRID_BOXER_TUTORIAL",
+    "levelDisplayName": "Boxers",
+    "difficultyRating": 1,
+    "levelIntegerID": 33
+  },
+  "GRID_CANNONS": {
+    "levelID": "GRID_CANNONS",
+    "levelDisplayName": "Killswitch",
+    "difficultyRating": 1,
+    "levelIntegerID": 34,
+    "levelName": "level91"
+  },
+  "GRID_CATCHRED": {
+    "levelID": "GRID_CATCHRED",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 35
+  },
+  "GRID_CEILING": {
+    "levelID": "GRID_CEILING",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 36,
+    "levelName": "level121"
+  },
+  "GRID_CHARGE": {
+    "levelID": "GRID_CHARGE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 37,
+    "levelName": "level112"
+  },
+  "GRID_CHASE_SANDBOX": {
+    "levelID": "GRID_CHASE_SANDBOX",
+    "levelDisplayName": "Neon Red Chase",
+    "difficultyRating": 1,
+    "levelIntegerID": 38
+  },
+  "GRID_CLIMBANG": {
+    "levelID": "GRID_CLIMBANG",
+    "levelDisplayName": "Swing",
+    "difficultyRating": 1,
+    "levelIntegerID": 39,
+    "levelName": "level104"
+  },
+  "GRID_CLOSER": {
+    "levelID": "GRID_CLOSER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 40,
+    "levelName": "level119"
+  },
+  "GRID_COVER": {
+    "levelID": "GRID_COVER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 41
+  },
+  "GRID_CRASHLAND": {
+    "levelID": "GRID_CRASHLAND",
+    "levelDisplayName": "Crash",
+    "difficultyRating": 1,
+    "levelIntegerID": 42,
+    "levelName": "level106"
+  },
+  "GRID_CROSSROADS": {
+    "levelID": "GRID_CROSSROADS",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 43
+  },
+  "GRID_CRUISE": {
+    "levelID": "GRID_CRUISE",
+    "levelDisplayName": "Canals",
+    "difficultyRating": 1,
+    "levelIntegerID": 44,
+    "levelName": "level79"
+  },
+  "GRID_DASHDANCE": {
+    "levelID": "GRID_DASHDANCE",
+    "levelDisplayName": "Dancer",
+    "difficultyRating": 1,
+    "levelIntegerID": 45,
+    "levelName": "level22"
+  },
+  "GRID_DESCEND": {
+    "levelID": "GRID_DESCEND",
+    "levelDisplayName": "Descent",
+    "difficultyRating": 1,
+    "levelIntegerID": 46,
+    "levelName": "level78"
+  },
+  "GRID_DESTRUCTION": {
+    "levelID": "GRID_DESTRUCTION",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 47,
+    "levelName": "level45"
+  },
+  "GRID_DISTRICT": {
+    "levelID": "GRID_DISTRICT",
+    "levelDisplayName": "MOCK",
+    "difficultyRating": 1,
+    "levelIntegerID": 48
+  },
+  "GRID_DRAGON2": {
+    "levelID": "GRID_DRAGON2",
+    "levelDisplayName": "Distinguish",
+    "difficultyRating": 1,
+    "levelIntegerID": 49,
+    "levelName": "level74"
+  },
+  "GRID_DRAGON": {
+    "levelID": "GRID_DRAGON",
+    "levelDisplayName": "",
+    "difficultyRating": 2,
+    "levelIntegerID": 50
+  },
+  "GRID_DYNAMITE": {
+    "levelID": "GRID_DYNAMITE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 51
+  },
+  "GRID_ESCALATE": {
+    "levelID": "GRID_ESCALATE",
+    "levelDisplayName": "Escalate",
+    "difficultyRating": 1,
+    "levelIntegerID": 52,
+    "levelName": "level44"
+  },
+  "GRID_EXPLODE": {
+    "levelID": "GRID_EXPLODE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 53
+  },
+  "GRID_EXTERMINATOR": {
+    "levelID": "GRID_EXTERMINATOR",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 54,
+    "levelName": "level50"
+  },
+  "GRID_FALLING": {
+    "levelID": "GRID_FALLING",
+    "levelDisplayName": "Falling",
+    "difficultyRating": 1,
+    "levelIntegerID": 55,
+    "levelName": "level92"
+  },
+  "GRID_FANTASY_HIDEOUT": {
+    "levelID": "GRID_FANTASY_HIDEOUT",
+    "levelDisplayName": "Demon Hideout",
+    "difficultyRating": 5,
+    "levelIntegerID": 56
+  },
+  "GRID_FAST_BALLOON": {
+    "levelID": "GRID_FAST_BALLOON",
+    "levelDisplayName": "Fastlane",
+    "difficultyRating": 1,
+    "levelIntegerID": 57,
+    "levelName": "level21"
+  },
+  "GRID_FEVER": {
+    "levelID": "GRID_FEVER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 58,
+    "levelName": "level117"
+  },
+  "GRID_FIELD": {
+    "levelID": "GRID_FIELD",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 59
+  },
+  "GRID_FIRECRACKER_2": {
+    "levelID": "GRID_FIRECRACKER_2",
+    "levelDisplayName": "Firecracker",
+    "difficultyRating": 1,
+    "levelIntegerID": 60,
+    "levelName": "level108"
+  },
+  "GRID_FIRECRACKER": {
+    "levelID": "GRID_FIRECRACKER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 61
+  },
+  "GRID_FLOCK": {
+    "levelID": "GRID_FLOCK",
+    "levelDisplayName": "Steps",
+    "difficultyRating": 1,
+    "levelIntegerID": 62,
+    "levelName": "level86"
+  },
+  "GRID_FLYING_LEVEL": {
+    "levelID": "GRID_FLYING_LEVEL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 63
+  },
+  "GRID_FORCEMOVE2": {
+    "levelID": "GRID_FORCEMOVE2",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 65
+  },
+  "GRID_FORCEMOVE": {
+    "levelID": "GRID_FORCEMOVE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 66
+  },
+  "GRID_FORCE": {
+    "levelID": "GRID_FORCE",
+    "levelDisplayName": "FORCE",
+    "difficultyRating": 1,
+    "levelIntegerID": 64
+  },
+  "GRID_FRENZY": {
+    "levelID": "GRID_FRENZY",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 68
+  },
+  "GRID_GODSTREAK": {
+    "levelID": "GRID_GODSTREAK",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 255
+  },
+  "GRID_HEAT": {
+    "levelID": "GRID_HEAT",
+    "levelDisplayName": "Escalation",
+    "difficultyRating": 1,
+    "levelIntegerID": 73,
+    "levelName": "level46"
+  },
+  "GRID_HECK": {
+    "levelID": "GRID_HECK",
+    "levelDisplayName": "Trick",
+    "difficultyRating": 1,
+    "levelIntegerID": 74,
+    "levelName": "level115"
+  },
+  "GRID_HELIUM": {
+    "levelID": "GRID_HELIUM",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 75
+  },
+  "GRID_HEMISPHERE": {
+    "levelID": "GRID_HEMISPHERE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 77
+  },
+  "GRID_HIKE": {
+    "levelID": "GRID_HIKE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 78,
+    "levelName": "level120"
+  },
+  "GRID_HOPHOP": {
+    "levelID": "GRID_HOPHOP",
+    "levelDisplayName": "Expel",
+    "difficultyRating": 1,
+    "levelIntegerID": 79,
+    "levelName": "level30"
+  },
+  "GRID_HOPSCOTCH": {
+    "levelID": "GRID_HOPSCOTCH",
+    "levelDisplayName": "Warehouse",
+    "difficultyRating": 1,
+    "levelIntegerID": 80,
+    "levelName": "level84"
+  },
+  "GRID_HUNT": {
+    "levelID": "GRID_HUNT",
+    "levelDisplayName": "Waterworks",
+    "difficultyRating": 1,
+    "levelIntegerID": 81,
+    "levelName": "level90"
+  },
+  "GRID_JUMPDASH": {
+    "levelID": "GRID_JUMPDASH",
+    "levelDisplayName": "Outstretched",
+    "difficultyRating": 1,
+    "levelIntegerID": 82,
+    "levelName": "level71"
+  },
+  "GRID_JUMPSHOT": {
+    "levelID": "GRID_JUMPSHOT",
+    "levelDisplayName": "Superchurch",
+    "difficultyRating": 1,
+    "levelIntegerID": 83
+  },
+  "GRID_KNOCKOUT": {
+    "levelID": "GRID_KNOCKOUT",
+    "levelDisplayName": "Knockout",
+    "difficultyRating": 1,
+    "levelIntegerID": 84
+  },
+  "GRID_LEAPOFFAITH": {
+    "levelID": "GRID_LEAPOFFAITH",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 85
+  },
+  "GRID_LEMISHINE": {
+    "levelID": "GRID_LEMISHINE",
+    "levelDisplayName": "Heaven's Door",
+    "difficultyRating": 1,
+    "levelIntegerID": 87
+  },
+  "GRID_MEATY_BALLOONS": {
+    "levelID": "GRID_MEATY_BALLOONS",
+    "levelDisplayName": "Catwalk",
+    "difficultyRating": 1,
+    "levelIntegerID": 89,
+    "levelName": "level73"
+  },
+  "GRID_MIMICFINALE": {
+    "levelID": "GRID_MIMICFINALE",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 90,
+    "levelName": "level113"
+  },
+  "GRID_MIMICPOP": {
+    "levelID": "GRID_MIMICPOP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 91,
+    "levelName": "level100"
+  },
+  "GRID_MINEFIELD": {
+    "levelID": "GRID_MINEFIELD",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 92,
+    "levelName": "level99"
+  },
+  "GRID_MOUNTAIN": {
+    "levelID": "GRID_MOUNTAIN",
+    "levelDisplayName": "Mountain",
+    "difficultyRating": 1,
+    "levelIntegerID": 93,
+    "levelName": "level81"
+  },
+  "GRID_PAGODA": {
+    "levelID": "GRID_PAGODA",
+    "levelDisplayName": "Take Flight",
+    "difficultyRating": 1,
+    "levelIntegerID": 94,
+    "levelName": "level1"
+  },
+  "GRID_PEEKABOO": {
+    "levelID": "GRID_PEEKABOO",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 96
+  },
+  "GRID_POCKETROCKET": {
+    "levelID": "GRID_POCKETROCKET",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 97
+  },
+  "GRID_PON": {
+    "levelID": "GRID_PON",
+    "levelDisplayName": "GODSTREAK",
+    "difficultyRating": 1,
+    "levelIntegerID": 98,
+    "levelName": "level111"
+  },
+  "GRID_POP": {
+    "levelID": "GRID_POP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 99
+  },
+  "GRID_PORT": {
+    "levelID": "GRID_PORT",
+    "levelDisplayName": "Glass Port",
+    "difficultyRating": 1,
+    "levelIntegerID": 100,
+    "levelName": "level20"
+  },
+  "GRID_PRECISELY": {
+    "levelID": "GRID_PRECISELY",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 101
+  },
+  "GRID_PREPARE": {
+    "levelID": "GRID_PREPARE",
+    "levelDisplayName": "Prepare",
+    "difficultyRating": 1,
+    "levelIntegerID": 102,
+    "levelName": "level94"
+  },
+  "GRID_PROGRESSION": {
+    "levelID": "GRID_PROGRESSION",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 103
+  },
+  "GRID_RACE": {
+    "levelID": "GRID_RACE",
+    "levelDisplayName": "Race",
+    "difficultyRating": 1,
+    "levelIntegerID": 104,
+    "levelName": "level37"
+  },
+  "GRID_RAVENS": {
+    "levelID": "GRID_RAVENS",
+    "levelDisplayName": "Belltower",
+    "difficultyRating": 1,
+    "levelIntegerID": 105
+  },
+  "GRID_RICHOCHET": {
+    "levelID": "GRID_RICHOCHET",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 106
+  },
+  "GRID_RINGER_EXPLORATION": {
+    "levelID": "GRID_RINGER_EXPLORATION",
+    "levelDisplayName": "Cleaner",
+    "difficultyRating": 1,
+    "levelIntegerID": 107,
+    "levelName": "level83"
+  },
+  "GRID_RINGER_TUTORIAL": {
+    "levelID": "GRID_RINGER_TUTORIAL",
+    "levelDisplayName": "Ringer",
+    "difficultyRating": 1,
+    "levelIntegerID": 108,
+    "levelName": "level82"
+  },
+  "GRID_RISERS": {
+    "levelID": "GRID_RISERS",
+    "levelDisplayName": "Tower",
+    "difficultyRating": 1,
+    "levelIntegerID": 109
+  },
+  "GRID_ROCKETTRICKS": {
+    "levelID": "GRID_ROCKETTRICKS",
+    "levelDisplayName": "Rocket Jump Obstacle Course",
+    "difficultyRating": 3,
+    "levelIntegerID": 110
+  },
+  "GRID_ROCKETUZI": {
+    "levelID": "GRID_ROCKETUZI",
+    "levelDisplayName": "Bounce",
+    "difficultyRating": 1,
+    "levelIntegerID": 111,
+    "levelName": "level105"
+  },
+  "GRID_RUSH": {
+    "levelID": "GRID_RUSH",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 113
+  },
+  "GRID_SCARECROW": {
+    "levelID": "GRID_SCARECROW",
+    "levelDisplayName": "Scarecrow",
+    "difficultyRating": 1,
+    "levelIntegerID": 114
+  },
+  "GRID_SHIELDTEST2": {
+    "levelID": "GRID_SHIELDTEST2",
+    "levelDisplayName": "Shields Up",
+    "difficultyRating": 2,
+    "levelIntegerID": 116
+  },
+  "GRID_SHIELDTEST": {
+    "levelID": "GRID_SHIELDTEST",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 117
+  },
+  "GRID_SHIELD": {
+    "levelID": "GRID_SHIELD",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 115,
+    "levelName": "level96"
+  },
+  "GRID_SKIPPER": {
+    "levelID": "GRID_SKIPPER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 119
+  },
+  "GRID_SKIP": {
+    "levelID": "GRID_SKIP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 118,
+    "levelName": "level53"
+  },
+  "GRID_SLIPPY": {
+    "levelID": "GRID_SLIPPY",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 121
+  },
+  "GRID_SMACKDOWN": {
+    "levelID": "GRID_SMACKDOWN",
+    "levelDisplayName": "Smackdown",
+    "difficultyRating": 1,
+    "levelIntegerID": 122,
+    "levelName": "level72"
+  },
+  "GRID_SPIDERCLAUS": {
+    "levelID": "GRID_SPIDERCLAUS",
+    "levelDisplayName": "Straightaway",
+    "difficultyRating": 1,
+    "levelIntegerID": 124,
+    "levelName": "level107"
+  },
+  "GRID_SPIDERMAN": {
+    "levelID": "GRID_SPIDERMAN",
+    "levelDisplayName": "Streak",
+    "difficultyRating": 1,
+    "levelIntegerID": 125,
+    "levelName": "level109"
+  },
+  "GRID_SPLATTER": {
+    "levelID": "GRID_SPLATTER",
+    "levelDisplayName": "Splatter",
+    "difficultyRating": 2,
+    "levelIntegerID": 126
+  },
+  "GRID_SPRINT": {
+    "levelID": "GRID_SPRINT",
+    "levelDisplayName": "Sprint",
+    "difficultyRating": 1,
+    "levelIntegerID": 127,
+    "levelName": "level80"
+  },
+  "GRID_STAMPEROUT": {
+    "levelID": "GRID_STAMPEROUT",
+    "levelDisplayName": "Driller",
+    "difficultyRating": 1,
+    "levelIntegerID": 128,
+    "levelName": "level25"
+  },
+  "GRID_SUPERKINETIC": {
+    "levelID": "GRID_SUPERKINETIC",
+    "levelDisplayName": "Superkinetic",
+    "difficultyRating": 2,
+    "levelIntegerID": 129,
+    "levelName": "level26"
+  },
+  "GRID_SWARM": {
+    "levelID": "GRID_SWARM",
+    "levelDisplayName": "Locker",
+    "difficultyRating": 1,
+    "levelIntegerID": 130,
+    "levelName": "level101"
+  },
+  "GRID_SWITCH": {
+    "levelID": "GRID_SWITCH",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 131,
+    "levelName": "level102"
+  },
+  "GRID_TANGLED": {
+    "levelID": "GRID_TANGLED",
+    "levelDisplayName": "Tangled",
+    "difficultyRating": 1,
+    "levelIntegerID": 132,
+    "levelName": "level89"
+  },
+  "GRID_TEMPLE_REVEAL": {
+    "levelID": "GRID_TEMPLE_REVEAL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 133
+  },
+  "GRID_TOWER": {
+    "levelID": "TOWER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 134
+  },
+  "GRID_TRAPS": {
+    "levelID": "GRID_TRAPS",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 136
+  },
+  "GRID_TRIAL": {
+    "levelID": "GRID_TRIAL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 137
+  },
+  "GRID_TRIPLEJUMP": {
+    "levelID": "TRIPLEJUMP",
+    "levelDisplayName": "Longjump",
+    "difficultyRating": 1,
+    "levelIntegerID": 139
+  },
+  "GRID_TRIPMAZE": {
+    "levelID": "GRID_TRIPMAZE",
+    "levelDisplayName": "Triptrack",
+    "difficultyRating": 1,
+    "levelIntegerID": 140,
+    "levelName": "level95"
+  },
+  "GRID_TRIPRAP": {
+    "levelID": "GRID_TRIPRAP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 141,
+    "levelName": "level123"
+  },
+  "GRID_TUNNEL": {
+    "levelID": "GRID_TUNNEL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 142
+  },
+  "GRID_TUT_BALLOONKILLER": {
+    "levelID": "TUT_BALLOONKILLER",
+    "levelDisplayName": "Balloon Demons",
+    "difficultyRating": 1,
+    "levelIntegerID": 144
+  },
+  "GRID_TUT_BALLOON": {
+    "levelID": "GRID_TUT_BALLOON",
+    "levelDisplayName": "Bounce",
+    "difficultyRating": 1,
+    "levelIntegerID": 143,
+    "levelName": "level65"
+  },
+  "GRID_TUT_BARNACLERUN2": {
+    "levelID": "TUT_BARNACLERUN2",
+    "levelDisplayName": "Hawk",
+    "difficultyRating": 2,
+    "levelIntegerID": 145
+  },
+  "GRID_TUT_BARNACLERUN": {
+    "levelID": "TUT_BARNACLERUN",
+    "levelDisplayName": "Weapon Run",
+    "difficultyRating": 1,
+    "levelIntegerID": 146
+  },
+  "GRID_TUT_BOMB": {
+    "levelID": "TUT_BOMB",
+    "levelDisplayName": "Dash Tower",
+    "difficultyRating": 1,
+    "levelIntegerID": 148,
+    "levelName": "level77"
+  },
+  "GRID_TUT_DASH_BASIC": {
+    "levelID": "TUT_DASH_BASIC",
+    "levelDisplayName": "Dash Ability 01",
+    "difficultyRating": 1,
+    "levelIntegerID": 149
+  },
+  "GRID_TUT_DASH": {
+    "levelID": "TUT_DASH",
+    "levelDisplayName": "Dash Ability 02",
+    "difficultyRating": 1,
+    "levelIntegerID": 150
+  },
+  "GRID_TUT_FREEZE": {
+    "levelID": "TUT_FREEZE",
+    "levelDisplayName": "Freeze Tutorial",
+    "difficultyRating": 1,
+    "levelIntegerID": 152
+  },
+  "GRID_TUT_JUMPJUMP": {
+    "levelID": "GRID_TUT_JUMPJUMP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 155
+  },
+  "GRID_TUT_JUMP_BASIC": {
+    "levelID": "TUT_JUMP_BASIC",
+    "levelDisplayName": "Jump Ability 01",
+    "difficultyRating": 1,
+    "levelIntegerID": 153
+  },
+  "GRID_TUT_JUMP": {
+    "levelID": "TUT_JUMP",
+    "levelDisplayName": "Elevate",
+    "difficultyRating": 1,
+    "levelIntegerID": 154,
+    "levelName": "level64"
+  },
+  "GRID_URBAN": {
+    "levelID": "GRID_URBAN",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 159
+  },
+  "GRID_UZI_BALLOON": {
+    "levelID": "GRID_UZI_BALLOON",
+    "levelDisplayName": "Fire Escape",
+    "difficultyRating": 1,
+    "levelIntegerID": 160
+  },
+  "GRID_VERTICAL": {
+    "levelID": "GRID_VERTICAL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 161,
+    "levelName": "level98"
+  },
+  "GRID_WATERFALL": {
+    "levelID": "GRID_WATERFALL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 162
+  },
+  "GRID_WATERSLIDE": {
+    "levelID": "GRID_WATERSLIDE",
+    "levelDisplayName": "Waterfalls",
+    "difficultyRating": 1,
+    "levelIntegerID": 163
+  },
+  "GRID_YELLOW": {
+    "levelID": "GRID_YELLOW",
+    "levelDisplayName": "Purification",
+    "difficultyRating": 1,
+    "levelIntegerID": 164
+  },
+  "GRID_ZIPBOMB": {
+    "levelID": "GRID_ZIPBOMB",
+    "levelDisplayName": "",
+    "difficultyRating": 4,
+    "levelIntegerID": 165
+  },
+  "GRID_ZIPLINE_SANDBOX": {
+    "levelID": "GRID_ZIPLINE_SANDBOX",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 166
+  },
+  "GRID_ZIPRAP": {
+    "levelID": "GRID_ZIPRAP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 167,
+    "levelName": "level52"
+  },
+  "JUSTINTESTLEVEL": {
+    "levelID": "JUSTINTESTLEVEL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 169
+  },
+  "RANDOM": {
+    "levelID": "RANDOM",
+    "levelDisplayName": "Limbo",
+    "difficultyRating": 2,
+    "levelIntegerID": 170
+  },
+  "ROCKET_SANDBOX": {
+    "levelID": "ROCKET_SANDBOX",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 171
+  },
+  "SA L VAGE2": {
+    "levelID": "SA L VAGE2",
+    "levelDisplayName": "Salvage",
+    "difficultyRating": 1,
+    "levelIntegerID": 172,
+    "levelName": "level97"
+  },
+  "SA L VAGE": {
+    "levelID": "SA L VAGE",
+    "levelDisplayName": "Locals",
+    "difficultyRating": 1,
+    "levelIntegerID": 173
+  },
+  "SANDBOX_ART3": {
+    "levelID": "SANDBOX_ART3",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 174
+  },
+  "SANDBOX_ARTBLOCKS": {
+    "levelID": "SANDBOX_ARTBLOCKS",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 175
+  },
+  "SANDBOX_BOSS_MOVEMENT": {
+    "levelID": "SANDBOX_BOSS_MOVEMENT",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 177
+  },
+  "SANDBOX_BOSS_VIGNETTES": {
+    "levelID": "SANDBOX_BOSS_VIGNETTES",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 178
+  },
+  "SANDBOX": {
+    "levelID": "SANDBOX",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 179
+  },
+  "SANDBOX_LIGHTING": {
+    "levelID": "SANDBOX_LIGHTING",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 180
+  },
+  "SANDBOX_MIMIC_ATTACK": {
+    "levelID": "SANDBOX_MIMIC_ATTACK",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 181
+  },
+  "SANDBOX_MOVEMENT": {
+    "levelID": "SANDBOX_MOVEMENT",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 182
+  },
+  "SANDBOX_SCENE_SWAP": {
+    "levelID": "SANDBOX_SCENE_SWAP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 183
+  },
+  "SANDBOX_WATER": {
+    "levelID": "SANDBOX_WATER",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 184
+  },
+  "SIDEQUEST_DUNGEON_KATANA": {
+    "levelID": "SIDEQUEST_DUNGEON_KATANA",
+    "levelDisplayName": "Katana Dungeon",
+    "difficultyRating": 1,
+    "levelIntegerID": 190
+  },
+  "SIDEQUEST_DUNGEON_RIFLE": {
+    "levelID": "SIDEQUEST_DUNGEON_RIFLE",
+    "levelDisplayName": "Godspeed Dungeon",
+    "difficultyRating": 4,
+    "levelIntegerID": 191
+  },
+  "SIDEQUEST_DUNGEON_SHOTGUN": {
+    "levelID": "SIDEQUEST_DUNGEON_SHOTGUN",
+    "levelDisplayName": "Shotgun Dungeon",
+    "difficultyRating": 3,
+    "levelIntegerID": 192
+  },
+  "SIDEQUEST_GREEN_MEMORY_2": {
+    "levelID": "SIDEQUEST_GREEN_MEMORY_2",
+    "levelDisplayName": "???",
+    "difficultyRating": 1,
+    "levelIntegerID": 194,
+    "levelName": "level153"
+  },
+  "SIDEQUEST_GREEN_MEMORY_4": {
+    "levelID": "SIDEQUEST_GREEN_MEMORY_4",
+    "levelDisplayName": "???",
+    "difficultyRating": 1,
+    "levelIntegerID": 196,
+    "levelName": "level155"
+  },
+  "SIDEQUEST_LONGJUMP": {
+    "levelID": "SIDEQUEST_LONGJUMP",
+    "levelDisplayName": "Longjump",
+    "difficultyRating": 2,
+    "levelIntegerID": 198
+  },
+  "SIDEQUEST_OBSTACLE_BOMB": {
+    "levelID": "SIDEQUEST_OBSTACLE_BOMB",
+    "levelDisplayName": "Purify Obstacle Course 1",
+    "difficultyRating": 3,
+    "levelIntegerID": 199
+  },
+  "SIDEQUEST_OBSTACLE_RIFLE": {
+    "levelID": "SIDEQUEST_OBSTACLE_RIFLE",
+    "levelDisplayName": "Godspeed Obstacle Course 2",
+    "difficultyRating": 3,
+    "levelIntegerID": 204
+  },
+  "SIDEQUEST_OBSTACLE_UZI_3": {
+    "levelID": "SIDEQUEST_OBSTACLE_UZI_3",
+    "levelDisplayName": "Stomp Obstacle Course 2",
+    "difficultyRating": 2,
+    "levelIntegerID": 209
+  },
+  "SIDEQUEST_OBSTACLE_UZI": {
+    "levelID": "SIDEQUEST_OBSTACLE_UZI",
+    "levelDisplayName": "Stomp Challenge",
+    "difficultyRating": 2,
+    "levelIntegerID": 210
+  },
+  "SIDEQUEST_OBSTACLE_UZI_MINESHAFT": {
+    "levelID": "SIDEQUEST_OBSTACLE_UZI_MINESHAFT",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 211
+  },
+  "SIDEQUEST_PUZZLE_TRIP": {
+    "levelID": "SIDEQUEST_PUZZLE_TRIP",
+    "levelDisplayName": "Tripwire Puzzle",
+    "difficultyRating": 5,
+    "levelIntegerID": 212
+  },
+  "SIDEQUEST_SNIPER": {
+    "levelID": "SIDEQUEST_SNIPER",
+    "levelDisplayName": "Rocket Sniper",
+    "difficultyRating": 4,
+    "levelIntegerID": 217
+  },
+  "SIDEQUEST_TRAP_JUMP": {
+    "levelID": "SIDEQUEST_TRAP_JUMP",
+    "levelDisplayName": "Trap Jumper",
+    "difficultyRating": 3,
+    "levelIntegerID": 220
+  },
+  "SIDEQUEST_TRIPBOMB": {
+    "levelID": "SIDEQUEST_TRIPBOMB",
+    "levelDisplayName": "Tripbomb",
+    "difficultyRating": 3,
+    "levelIntegerID": 221
+  },
+  "SIDEQUEST_TUT_CRYSTAL": {
+    "levelID": "SIDEQUEST_TUT_CRYSTAL",
+    "levelDisplayName": "Crystal Hunter",
+    "difficultyRating": 1,
+    "levelIntegerID": 222
+  },
+  "SKYWORLD_SANDBOX": {
+    "levelID": "SKYWORLD_SANDBOX",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 223
+  },
+  "SLUGGER": {
+    "levelID": "SLUGGER",
+    "levelDisplayName": "Gunner",
+    "difficultyRating": 1,
+    "levelIntegerID": 224
+  },
+  "TUT_BARREL": {
+    "levelID": "TUT_BARREL",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 254
+  },
+  "TUT_BOMB2": {
+    "levelID": "TUT_BOMB2",
+    "levelDisplayName": "Purify",
+    "difficultyRating": 1,
+    "levelIntegerID": 225,
+    "levelName": "level19"
+  },
+  "TUT_BOMBJUMP": {
+    "levelID": "TUT_BOMBJUMP",
+    "levelDisplayName": "Climb",
+    "difficultyRating": 1,
+    "levelIntegerID": 226,
+    "levelName": "level66"
+  },
+  "TUT_DASHENEMY2": {
+    "levelID": "TUT_DASHENEMY2",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 227
+  },
+  "TUT_DASHENEMY": {
+    "levelID": "TUT_DASHENEMY",
+    "levelDisplayName": "Thrasher",
+    "difficultyRating": 1,
+    "levelIntegerID": 228,
+    "levelName": "level70"
+  },
+  "TUT_FASTTRACK": {
+    "levelID": "TUT_FASTTRACK",
+    "levelDisplayName": "Fasttrack",
+    "difficultyRating": 1,
+    "levelIntegerID": 229,
+    "levelName": "level67"
+  },
+  "TUT_FORCEFIELD2": {
+    "levelID": "TUT_FORCEFIELD2",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 230,
+    "levelName": "level38"
+  },
+  "TUT_FORCEFIELD": {
+    "levelID": "TUT_FORCEFIELD",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 231
+  },
+  "TUT_FROG": {
+    "levelID": "TUT_FROG",
+    "levelDisplayName": "Cascade",
+    "difficultyRating": 1,
+    "levelIntegerID": 232,
+    "levelName": "level18"
+  },
+  "TUT_GUARDIAN": {
+    "levelID": "TUT_GUARDIAN",
+    "levelDisplayName": "Guardian",
+    "difficultyRating": 1,
+    "levelIntegerID": 233,
+    "levelName": "level23"
+  },
+  "TUT_JUMPER": {
+    "levelID": "TUT_JUMPER",
+    "levelDisplayName": "Jumper",
+    "difficultyRating": 1,
+    "levelIntegerID": 234,
+    "levelName": "level76"
+  },
+  "TUT_MIMIC": {
+    "levelID": "TUT_MIMIC",
+    "levelDisplayName": "Mimic",
+    "difficultyRating": 1,
+    "levelIntegerID": 235,
+    "levelName": "level40"
+  },
+  "TUT_MOVING_2": {
+    "levelID": "TUT_MOVING_2",
+    "levelDisplayName": "Escape",
+    "difficultyRating": 1,
+    "levelIntegerID": 237
+  },
+  "TUT_ORIGIN": {
+    "levelID": "TUT_ORIGIN",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 238,
+    "levelName": "level13"
+  },
+  "TUT_OVERKILL": {
+    "levelID": "TUT_OVERKILL",
+    "levelDisplayName": "Babylon",
+    "difficultyRating": 1,
+    "levelIntegerID": 239
+  },
+  "TUT_RESURRECT": {
+    "levelID": "TUT_RESURRECT",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 240
+  },
+  "TUT_RIFLEJOCK": {
+    "levelID": "TUT_RIFLEJOCK",
+    "levelDisplayName": "Dasher",
+    "difficultyRating": 1,
+    "levelIntegerID": 242,
+    "levelName": "level69"
+  },
+  "TUT_ROCKETJUMP": {
+    "levelID": "TUT_ROCKETJUMP",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 243,
+    "levelName": "level42"
+  },
+  "TUT_SHOCKER2": {
+    "levelID": "TUT_SHOCKER2",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 244,
+    "levelName": "level36"
+  },
+  "TUT_SHOCKER": {
+    "levelID": "TUT_SHOCKER",
+    "levelDisplayName": "Shocker",
+    "difficultyRating": 1,
+    "levelIntegerID": 245,
+    "levelName": "level93"
+  },
+  "TUT_ZIPLINE": {
+    "levelID": "TUT_ZIPLINE",
+    "levelDisplayName": "Zipline",
+    "difficultyRating": 1,
+    "levelIntegerID": 249,
+    "levelName": "level103"
+  },
+  "WAVESTEST": {
+    "levelID": "WAVESTEST",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 250
+  },
+  "WOMBOCOMBO": {
+    "levelID": "WOMBOCOMBO",
+    "levelDisplayName": "",
+    "difficultyRating": 1,
+    "levelIntegerID": 251
+  },
+  "EmptyScene": {
+    "levelName": "level9"
+  },
+  "Origin_Environment_Base": {
+    "levelName": "level8"
+  },
+  "SLUGGER_Backup": {
+    "levelName": "level63"
+  },
+  "Player": {
+    "levelName": "level62"
+  },
+  "Enemies": {
+    "levelName": "level61"
+  },
+  "DialogueScene": {
+    "levelName": "level60"
+  },
+  "Heaven_Environment": {
+    "levelName": "level6"
+  },
+  "MissionCompleteScene": {
+    "levelName": "level59"
+  },
+  "MenuHolder": {
+    "levelName": "level58"
+  },
+  "Menu": {
+    "levelName": "level57"
+  },
+  "Audio": {
+    "levelName": "level56"
+  },
+  "Holy_Environment_Base": {
+    "levelName": "level55"
+  },
+  "Apocalypse_Environment_Base": {
+    "levelName": "level51"
+  },
+  "HeavensEdgeTwilight_Environment_Base": {
+    "levelName": "level47"
+  },
+  "HeavensEdge_Environment_Base": {
+    "levelName": "level43"
+  },
+  "GlassPort_Environment_Base": {
+    "levelName": "level4"
+  },
+  "HangingGarden_Bleak_Environment_Base": {
+    "levelName": "level39"
+  },
+  "HangingGarden_Environment_Base": {
+    "levelName": "level35"
+  },
+  "LowerHeavenOvercast_Environment_Base": {
+    "levelName": "level31"
+  },
+  "OldCity_Environment_Base": {
+    "levelName": "level28"
+  },
+  "LowerHeavenCloudy_Environment_Base": {
+    "levelName": "level24"
+  },
+  "LowerHeaven_Environment_Base": {
+    "levelName": "level2"
+  },
+  "GodTemple_InteriorLighting_Test": {
+    "levelName": "level17"
+  },
+  "Afterlife_Environment_Green": {
+    "levelName": "level151"
+  },
+  "GodTemple_Environment_Base": {
+    "levelName": "level15"
+  },
+  "Afterlife_Environment_Violet": {
+    "levelName": "level142"
+  },
+  "SIDEQUEST_STF": {
+    "levelName": "level138"
+  },
+  "Afterlife_Environment_Yellow": {
+    "levelName": "level133"
+  },
+  "SIDEQUEST_RAPTURE_QUEST": {
+    "levelName": "level132"
+  },
+  "SIDEQUEST_OBSTACLE_ROCKETLAUNCHER": {
+    "levelName": "level131"
+  },
+  "SIDEQUEST_OBSTACLE_SHOTGUN": {
+    "levelName": "level130"
+  },
+  "SIDEQUEST_OBSTACLE_UZI2": {
+    "levelName": "level129"
+  },
+  "SIDEQUEST_OBSTACLE_RIFLE_2": {
+    "levelName": "level128"
+  },
+  "SIDEQUEST_OBSTACLE_MACHINEGUN": {
+    "levelName": "level127"
+  },
+  "SIDEQUEST_OBSTACLE_PISTOL_SHOOT": {
+    "levelName": "level126"
+  },
+  "SIDEQUEST_OBSTACLE_PISTOL": {
+    "levelName": "level125"
+  },
+  "Afterlife_Environment_Red": {
+    "levelName": "level124"
+  },
+  "HandOfGod_Environment_Base_LOOKDEV": {
+    "levelName": "level12"
+  },
+  "Origin_Environment_Underwater_Cutscene": {
+    "levelName": "level10"
+  },
+  "IntroCards": {
+    "levelName": "level0"
+  }
+}
