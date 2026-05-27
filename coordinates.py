@@ -1,10 +1,10 @@
 in_game_level_to_level_file = {
-    'Movement': 'level7', 'Pummel': 'level3', 'Gunner': 'level63', 'Cascade': 'level18','Bounce': 'level65', 'Chute': 'level105', 'Purify': 'level19', 'Climb': 'level66', 'Fasttrack': 'level67', 'Glass Port': 'level20', 
+    'Movement': 'level7', 'Pummel': 'level3', 'Gunner': 'level63', 'Cascade': 'level18', 'Elevate': 'level64', 'Bounce': 'level65', 'Purify': 'level19', 'Climb': 'level66', 'Fasttrack': 'level67', 'Glass Port': 'level20', 
     'Take Flight': 'level1', 'Godspeed': 'level68', 'Dasher': 'level69', 'Thrasher': 'level70', 'Outstretched': 'level71', 'Smackdown': 'level72', 'Catwalk': 'level73', 'Fastlane': 'level21', 'Distinguish': 'level74', 'Dancer': 'level22', 
     'Guardian': 'level23', 'Stomp': 'level75', 'Jumper': 'level76', 'Dash Tower': 'level77', 'Descent': 'level78', 'Driller': 'level25', 'Canals': 'level79', 'Sprint': 'level80', 'Mountain': 'level81', 'Superkinetic': 'level26', 
-    'Arrival': 'level27', 'Floating City': 'level29', 'The Clocktower': 'level54', 
+    'Arrival': 'level27', 'Forgotten City': 'level29', 'The Clocktower': 'level54', 
     'Fireball': 'level30', 'Ringer': 'level82', 'Cleaner': 'level83', 'Warehouse': 'level84', 'Boom': 'level85', 'Streets': 'level32', 'Steps': 'level86', 'Demolition': 'level87', 'Arcs': 'level88', 'Apartment': 'level33', 
-    'Hanging Gardens': 'level34', 'Tangled': 'level89', 'Waterworks': 'level90', 'Killswitch': 'level91', 'Falling': 'level92', 'Shocker': 'level36', "Boquet":'level93', 'Prepare': 'level94', 'Triptrack': 'level95', 'Race': 'level37', 
+    'Hanging Gardens': 'level34', 'Tangled': 'level89', 'Waterworks': 'level90', 'Killswitch': 'level91', 'Falling': 'level92', 'Shocker': 'level36', "Bouquet":'level93', 'Prepare': 'level94', 'Triptrack': 'level95', 'Race': 'level37', 
     'Bubble': 'level38', 'Shield':'level96',  'Overlook': 'level97', 'Pop':'level98', 'Minefield': 'level99', 'Mimic': 'level40', 'Trigger': 'level100', 'Greenhouse': 'level101', 'Sweep': 'level102', 'Fuse':'level41',
     'Heaven\'s Edge':'level42', 'Zipline': 'level103', 'Swing': 'level104', 'Chute':'level105', 'Crash': 'level106', 'Ascent': 'level44', 'Straightaway': 'level107', 'Firecracker': 'level108', 'Streak': 'level109', 'Mirror' : 'level45',
     'Escalation': 'level46', 'Bolt': 'level110', 'Godstreak': 'level111', 'Plunge': 'level112', 'Mayhem':'level113', 'Barrage':'level48', 'Estate': 'level114', 'Trapwire': 'level115', 'Ricochet': 'level116', 'Fortress': 'level49', 
@@ -19,9 +19,9 @@ in_game_present_coordinates = {
     "Movement": (-40.14,70.42,166),"Pummel": (-36.52,68.19,62.63),"Gunner": (48.33,119.20,-196.06),"Cascade": (-28.43,85.79,-194.65), "Elevate": (114.12, 89.02, -357.32),"Bounce": (-138.38,80,-174),"Purify": (28.16,90.72,8.99),"Climb": (125,150,8),"Fasttrack": (81.7, 161.16, -216.14),"Glass Port": (-65.63, 216.18,428.34),
     'Take Flight': (-12.1,107.46,74.16), 'Godspeed': (375.6, 53.55, 1055), 'Dasher': (-32.21,65.08,-34.61), 'Thrasher': (313.97,16.17,-353.22), 'Outstretched': (61.49,57,-155), 'Smackdown': (-128.22, 100, -9.18), 'Catwalk': (-4.77, 37.5, 104.87), 'Fastlane': (-4, 118, 194), 'Distinguish': (-94, 63.5, 177), 'Dancer': (355.5, 76.2, -231.7), 
     'Guardian': (23.84, 194.53, 243.44), 'Stomp': (-132.5,161.32,-145.5), 'Jumper': (-81.6,236.5,-289.34), "Dash Tower": (106,15,-22.2), 'Descent': (4.1,17.9,109.32), 'Driller': (-21.6, 98.8, -23), 'Canals': (-121.77, 227,60), 'Sprint': (-159.1,93,12.85), 'Mountain': (46.8,111.78,-64.2), 'Superkinetic': (-154.44,126.17,279.1),
-    'Arrival': (-79,72.17,248), 'Floating City': (215,110.86,-37.9), 'The Clocktower': (-1,-1,-1), 
+    'Arrival': (-79,72.17,248), 'Forgotten City': (215,110.86,-37.9), 'The Clocktower': (-1,-1,-1), 
     'Fireball': (313.6,256.24,20.66), 'Ringer': (-28.7,108.5,-63.15), 'Cleaner': (32.8,149.3,-125.73), 'Warehouse': (-58.22,113.85,118.09), 'Boom': (132.9,78,213.84), 'Streets': (23.23,104.17,-27.41), 'Steps': (-295.5,116.1,-1.11), 'Demolition': (38.5,137.5,-27.43), 'Arcs': (-54.46,141.2,47.29), 'Apartment': (61.5,204.75,-65.68),
-    'Hanging Gardens': (-26.12,158.14,303.18), 'Tangled': (-23.73,141.76,70.75), 'Waterworks': (-86.03,102.37,93), 'Killswitch': (-133.08,72.35,-63.40), 'Falling': (17.14,209.27,-26.95), 'Shocker': (161.48,168.18,-82.56), "Boquet": (-309.35,66.52,-172.69), 'Prepare': (-214.03,148.85,-4.59), 'Triptrack': (585.13,119.45,370.86), 'Race': (406.12,89,-95.38),
+    'Hanging Gardens': (-26.12,158.14,303.18), 'Tangled': (-23.73,141.76,70.75), 'Waterworks': (-86.03,102.37,93), 'Killswitch': (-133.08,72.35,-63.40), 'Falling': (17.14,209.27,-26.95), 'Shocker': (161.48,168.18,-82.56), "Bouquet": (-309.35,66.52,-172.69), 'Prepare': (-214.03,148.85,-4.59), 'Triptrack': (585.13,119.45,370.86), 'Race': (406.12,89,-95.38),
     'Bubble': (-31.2,47.15,-104.8), 'Shield':(251.43,192.8,125.63),  'Overlook': (10.86,156.11,-153.83), 'Pop':(-4.86,80.26,562.97), 'Minefield': (39.85,112.2,-99.32), 'Mimic': (-49.4,122.5,23), 'Trigger': (95.15,152.05,-5.75), 'Greenhouse': (48.1,115.56,-86.36), 'Sweep': (61.95,254.5,77.6), 'Fuse':(-1,-1,-1),
     'Heaven\'s Edge':(144.95,277.50,49.45), 'Zipline': (-58.83,304,118.72), 'Swing': (82,301.84,-132.27), 'Chute':(160.05,148.5,5.95), 'Crash': (324.53,539.95,-340.16), 'Ascent': (-1, -1, -1), 'Straightaway': (667.49,509.13,548.46), 'Firecracker': (146.86,336.81,-36.63), 'Streak': (125.41,21.43,249.83), 'Mirror' : (421.08,693.18,43.27),
     'Escalation': (-288.06,216.07,-34.91), 'Bolt': (308.81,381.53,-15.92), 'Godstreak': (345.22,121.53,-258.86), 'Plunge': (151.88,76.80,-49.21), 'Mayhem':(-535.52,227.98,-149.93), 'Barrage':(59.91,116.82,-557.64), 'Estate': (-226.88,103.03,-750.45), 'Trapwire': (-284.19,89.02,-100.91), 'Ricochet': (-173.43,211.37,-160.33), 'Fortress': (0.99,93.99,102.84),
@@ -33,7 +33,7 @@ in_game_present_coordinates = {
 editor_present_coordinates_and_rotation = {
     "level1":(-27.96, 105.8, 67.12, 0.130526),
     "level3": (-36.767,66.543,59.43, 0),
-    "level7": (-1, -1, -1, 0), #Movement
+    "level7": (-26.12,31.47,-61.1, 0), #Movement
     "level11": (-1, -1, -1, 0), #Absolution
     "level13": (-1, -1, -1, 0), #Sacrifice
     "level14": (230.310,121.96,-749.32),
@@ -68,6 +68,7 @@ editor_present_coordinates_and_rotation = {
     "level53": (-320.5,34.91,1385.6,0),
     "level54": (-1,-1,-1,0), # Clocktower
     "level63": (0,58.9,0,0),
+    "level64": (113.91,87.4166,-357.5276,0),
     "level65": (-164.16,58.72,-116.53,-0.554597),
     "level66": (107.6,175.4,36.6,0.096593),
     "level67": (228.742,159.5,-21.651,0.534458),
@@ -132,7 +133,7 @@ editor_present_coordinates_and_rotation = {
 editor_present_parent_coordinates = {
     "level1":(0,0,0),
     "level3": (0,0, 0),
-    "level7": (-1, -1, -1, 0), #Movement
+    "level7": (-35.39,37.3,229.678), #Movement
     "level11": (-1, -1, -1, 0), #Absolution
     "level13": (-1, -1, -1, 0), #Sacrifice
     "level14": (0,0,0),
@@ -167,6 +168,7 @@ editor_present_parent_coordinates = {
     "level53": (0,0,0),
     "level54": (-1,-1,-1,0), # Clocktower
     "level63": (52.368,54.915,-239.35),
+    "level64": (0,0,0), #unknown
     "level65": (-182.745,24.29,22.29),
     "level66": (14.7,-25.1,-7),
     "level67": (0,0,0),
@@ -177,7 +179,7 @@ editor_present_parent_coordinates = {
     "level72": (-58.535,-83.7,-14.662),
     "level73": (0,27.065,0),
     "level74": (0,-201.4, 0),
-    "level75": (0,0,0), #(0,32.8,0)
+    "level75": (0,32.8,0), #(0,32.8,0)
     "level76": (-92.526,46.706,-15.221),
     "level77": (0,0,0),
     "level78": (-6.148,157.754,86.553),
@@ -230,15 +232,15 @@ editor_present_parent_coordinates = {
 
 editor_present_parent_quaternion = {
     "level1":(0,0.130526,0,0.991445),
-    "level3": (0,0,0, 0),
-    "level7": (-1, -1, -1, 0), #Movement
+    "level3": (0,0,0, 1),
+    "level7": (0,-0.179392,0,0.9837778), #Movement
     "level11": (-1, -1, -1, 0), #Absolution
     "level13": (-1, -1, -1, 0), #Sacrifice
     "level14": (0,0,0,0),
     "level16": (-1, -1, -1, 0), #The Third Temple
     "level18": (0,0,0,1),
     "level19": (0,0.130526,0,0.991445),
-    "level20": (0,0,0,1),
+    "level20": (-0,-0,-0,1),
     "level21": (0,-0.524778,0,0.851239),
     "level22": (0,-0.866025,0,0.500001),
     "level23": (0,0,0,1),
@@ -266,6 +268,7 @@ editor_present_parent_quaternion = {
     "level53": (0,0,0,1),
     "level54": (-1,-1,-1,0), # Clocktower
     "level63": (0,58.9,0,0),
+    "level64": (0,0,0,1), #unknown
     "level65": (0,-0.554597,0,0.832119),
     "level66": (0,0.096593,0,0.995324),
     "level67": (0,0.534458,0,0.845195),
@@ -278,7 +281,7 @@ editor_present_parent_quaternion = {
     "level74": (0,0,0,1),
     "level75": (0,0,0,1),
     "level76": (0,-0.707107,0,0.707106),
-    "level77": (0,0,0,0),
+    "level77": (0,0,0,1),
     "level78": (0,0.991445,0,-0.130525),
     "level79": (0,0,0,1),
     "level80": (0,-0.866024,0,0.500002),
@@ -328,58 +331,151 @@ editor_present_parent_quaternion = {
 }
 
 custom_present_coordinates = {
+    "Movement": (0, 70, -155),
+    "Pummel": (5, 85, 65),
+    "Gunner": (0, 58.9, 0),
+    "Cascade": (-6, 135, -80),
+    "Elevate": (114.12, 89.02, -357.32), 
     "Bounce": (-104.21, 201.44, -158.95),
+    "Purify": (-4, 39, -185),
     "Climb": (129.09,173.52,9.88),
+    "Fasttrack":  (81.7, 161.16, -216.14), 
+    "Glass Port": (-33.60, 274.27, 210.18),
+    # END CHAPTER 1 DONE
     "Take Flight": (-88.86, 196.23, -97.67),
     "Godspeed": (205.78,22.46,781.86),
+    "Dasher": (-49.43, 151.06, -50.87),
+    "Thrasher": (230.05, 83.11, -479.75),
     "Outstretched": (-32.24,65.27,209.16),
+    "Smackdown": (-103.86,11.53,-232.96),
+    "Catwalk": (50, 51.1, -99.88), 
+    "Fastlane": (-122.92,112.75,243.05),
     "Distinguish": (-105.41,100.54,184.80),
     "Dancer":(679.33,124.47,-501.07),
+    # END CHAPTER 2 DONE
+    'Guardian': (197.41,309.37, 217.63), 
+    'Stomp': (-55.11, 90.64, 244.97),
+    'Jumper': (-198.23,254.11,-468.96), 
+    'Dash Tower': (-66.43,41.15,-72.06), 
+    'Descent': (4.1,17.9,109.32), 
+    'Driller': (-66.89,72.21,-37.24), 
+    'Canals': (-102.75,194.83,-108.17), 
+    'Sprint': (-87.97,158.34,142.65), 
+    'Mountain': (58.84,80,-39.85), 
+    'Superkinetic': (-3.27, 126.26, 245.49),
+    #END CHAPTER 3 DONE
+    "Arrival": (-51.39,53.45,24.89),
+    "Forgotten City": (313.95,128.39,-3.94),
+    #END CHAPTER 4 DONE
     "Fireball": (196.62,193.65,-133.66),
+    'Ringer': (-28.7,108.5,-63.15),
+    'Cleaner': (15.64,30.30,72.68), 
+    'Warehouse': (-57.67,89.07,108.06),
     "Boom":(64.27,118.51,34.45),
     "Streets": (-36.03, 65.17, -44.52),
     "Steps": (-300.09,134.67,0.69),
+    'Demolition': (16.45,130.77,67.65), 
+    'Arcs': (-80.84,111.41,77),
     "Apartment": (399.93, 13.43, 321.72),
+    #END CHAPTER 5 DONE
     "Hanging Gardens": (138.05,198.51,249.30),
     "Tangled": (-382.60, 158.92, 400.96),
+    'Waterworks': (59.3,87.61,-208.71),
     "Killswitch": (-173.60, 125.16, -210.62),
     "Falling": (479.82, 122.92, 320.43),
     "Shocker": (84.89, 170.04, 272.36),
+    "Bouquet":(-331.24,138.71,-19.45), 
+    'Prepare': (83.57,140.52,-160.02),
     "Triptrack": (257.75, 181.14, 359.86),
+    'Race': (231.56,61.94,-382.13), 
+    #END CHAPTER 6 DONE
     "Bubble": (-3.66, 162.11, 83.22),
     "Shield":(166.85, 147.52, -140.47),
+    'Overlook': (43.57,193.95,-253.67),
     "Pop": (-19.72, 144.11, 557.68),
+    'Minefield': (-18.62,131.4,-137.04),
     "Mimic": (33.41, 41.69, 316.61),
     "Trigger": (226.21, 124.66, 229.54),
     "Greenhouse": (-156.53, 141.72, -156.79),
     "Sweep": (-169.84, 96.71, 305),
+    #'Fuse':(-1,-1,-1), #hand level
+    #END CHAPTER 7 DONE
     "Heaven's Edge": (127.77,662.46,44.17),
+    'Zipline': (34.32,107.03,120.55),
+    'Swing': (175.18,286.47,-326.58), 
     "Chute": (145.29, 565.51,15.31),
     "Crash": (312.68, 707.7, -319.14),
     #"Ascent": (-1874.65, 247.27, -95.80), #spawns hand not present, couldn't solve
+    'Straightaway': (770.19,375.76,-40.76),
     "Firecracker": (98.79, 1025.37, 90.65),
     "Streak": (416.79, 754.03, 639.15),
     "Mirror": (403.01, 163.89, 1108.46),
+    #END CHAPTER 8 DONE
     "Escalation": (-285.32, 362.49, -44.49),
     "Bolt": (337.67, 728.66,5.44),
     "Godstreak":(504.88,320.39,-284.77),
     "Plunge": (136.42,324.89,41.08),
     "Mayhem": (-391.97, 475.09,-578.48),
     "Barrage": (-114.97, 296.27,-383.69),
+    'Estate': (-289.4,274.77,-792.76), 
+    'Trapwire': (-185.67,75.84,-167.82),
+    'Ricochet': (-12.83,312.15,-95.18), 
+    'Fortress': (-164.47,127.33,134.81), 
+    #END CHAPTER 9 #DONE
+    #END CHAPTER 10
     "Spree": (-419.70,261.91,96.58),
     "Breakthrough": (157.98,330.43,150.46),
     "Glide": (475.20,216.70,-553.12),
     "Closer": (158.48,391.18,360.56),
+    'Hike':(33.6,34.53,-185.69), 
     "Switch":(-237.42, 511.45,345.78),
     "Access": (-57.30,626.78,682.47),
+    'Congregation':(496.25,194.58,2.54), 
+    'Sequence':(589.55,131.77,-69.16), 
+    #'Marathon':(-1, -1, -1), #hand level
+    #END CHAPTER 11 #DONE
+    #END CHAPTER 12
 }
 
 level_modification_notes = {
+    "Pummel": "Remove all purify, all balloons but one", #done
+    "Gunner": "Test removing all purify but 1, move one enemy and test if present still obtainable", #done
+    "Cascade": "try setting only 3 elevate", #done
+    "Elevate": "remove all enemies, same present spot", #done
     "Climb": "Remove 1 purify", #done
+    "Fasttrack": "move first purify to second purify location, remove first 2 balloons", #done
+    #END CHAPTER 1
     "Take Flight": "remove 1 frog", #done
     "Godspeed" : "remove 1 godspeed", #done
-    "Dasher": "remove ALL enemies and ALL cards", #done
+    "Smackdown": "remove 1st elevate, 2nd blue guy, vending machine", #done
+    "Catwalk": "remove 2nd godspeed card", #done
+    "Fastlane": "remove final balloon", #done
+    #END CHAPTER 2 
+    "Dash tower": "remove all cards/enemies/vending machine except final 2", #done
+    "Descent": "remove first 2 green enemies, green card, and chest", #done
+    "Canals": "remove all cards except purify, 1 elevate (move to double barrel jump). remove all barrels except second double barrel jump", #done
+    "Sprint": "remove everything (enemies, cards) except first", #done
+    "Superkinetic": "remove all non-green enemies", #done
+    #END CHAPTER 3
+    "Arrival": "remove early blue cards, move yellow down to bottom. remove barrels, move one blue card to midhigh area", #done
+    "Forgotten City": "remove first, second blue cards, 2 blues on same flat area, blue above balloon", #done
+    #END CHAPTER 4 
+    "Warehouse": "remove all fireballs", #done
     "Ringer": "remove 1 elevate card", #done
     "Boom":"remove 1 godspeed and 1 fireball", #done
-    "Steps": "remove 2 fireballs" #done
+    "Steps": "remove 2 fireballs", #done
+    "Demolition": "remove all fireballs", #done
+    #END CHAPTER 5
+    "Waterworks": "remove all blue cards", #done
+    "Bouquet": "remove first 2 purify", #done
+    "Race": "remove all godspeed (blue) except 1", #done
+    #END CHAPTER 6
+    #END CHAPTER 7
+    "Zipline": "keep only 1st, 2nd, 4th dominion cards", #done
+    #END CHAPTER 8
+    #END CHAPTER 9
+    #END CHAPTER 10
+    "Congregation": "remove boof", #done
+    #END CHAPTER 11
+    #END CHAPTER 12
 }

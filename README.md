@@ -33,12 +33,9 @@ This section will go over how to get the modded levels in your own game.
 ## F.A.Q.
 
 - I can't find the present for a level
-  - message tentex on discord, and I can show you a screenshot of where I stood to place the present
-  - or look in `coordinates.py` to see the in game coordinates for the presents, and use a speedometer to help find the present
+  - watch [this video](https://youtu.be/Sd3DA1H67s4) which shows how to obtain each present
 - How do I create my own custom levels?
   - check `MODDING.md` for a guide
-- The present in a level is literally impossible to get!
-  - Oops! I kinda just eyeballed they were in the right spot so some might be a bit too high...
 - I have questions about something else...
-  - Reach out to the #modding community in the Neon White Speedrunning Discord!
+  - Reach out to the #modding community in the [Neon White Speedrunning Discord](https://discord.com/invite/neonwhitespeedruns)
   - Reach out to tentex on discord
