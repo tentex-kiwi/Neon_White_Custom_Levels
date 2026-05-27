@@ -1,0 +1,14 @@
+# Ignore Python bytecode dirs
+__pycache__/
+
+# Ignore game finished folders
+game_finished*/
+
+# Local utility scripts and outputs (keep in working tree, untrack in git)
+convert_coords.py
+coordinates.py
+copy_levels.py
+machu_check.py
+machu_email.py
+min_capture.py
+presents.txt
