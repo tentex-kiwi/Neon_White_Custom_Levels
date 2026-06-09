@@ -1,11 +1,5 @@
 # Custom Levels in Neon White
 
-Welcome to the \***\*first\*\*** edition of custom levels in Neon White!
-
-This version is a demonstration of the current knowledge I have gained, allowing for the removal of assets and moving assets within levels.
-
-As part of this demonstration, I have put together a showcase of some hard to get to spots in levels, along with a few other challenges to inspire others!
-
 ## Prerequisites
 
 None! These custom levels can be played in the default game!
